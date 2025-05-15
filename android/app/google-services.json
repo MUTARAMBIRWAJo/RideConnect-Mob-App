@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "867517087427",
+    "project_id": "rideconnect-8916d",
+    "storage_bucket": "rideconnect-8916d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867517087427:android:a23ade38ec1a012df32c76",
+        "android_client_info": {
+          "package_name": "com.example.rideconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgaQTppqap0BWYdGG2I6fg_VjfyFacUnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867517087427:android:cdb64acc5c67dd08f32c76",
+        "android_client_info": {
+          "package_name": "com.example.rideconnect_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgaQTppqap0BWYdGG2I6fg_VjfyFacUnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
